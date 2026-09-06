@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontakt</title>
+</head>
+
+<body>
+ 
+    <header>
+        <h1>Kontakt</h1>
+<a href="index.html" target="_blank">Min första webbplats</a>
+<br>
+<a href="hobby.html" target="_blank">Mina hobbies</a>
+<br>
+<img src="images/vindruvor.jpg" alt="Mina egenodlade vindruvor" width="120" height="120">
+
+<p> Vill du komma i kontakt med mig?- Fyll i ditt namn och mejl så hör jag av mig!</p>
+<p> Du kan även skriva ett meddelande till mig om du vill. Jag svarar så fort jag kan. <a href="mailto:johnanna.lilja@email.com">Kontakta mig via e-post</a> </p>
+            <h2>Kontaktformulär</h2> 
+    </header>   
+<form>
+<label for="name">Namn:</label><br>
+<input type="text" id="name" name="name"><br>   
+<label for="email">Email:</label><br>
+<input type="email" id="email" placeholder="Din email" name="email"><br>
+<label for="phone">Telefonnummer:</label><br>
+<input type="tel" id="phone" required placeholder="Ditt telefonnummer" name="phone"><br>
+<label for="fav-color">Favoritfärg:</label><br>
+<input type="color" id="fav-color" name="fav-color">
+<br>
+<br>
+<button type="submit">Skicka</button>
+
+<br>
+<br>
+ <p>Skulle du vilja ha ett nyhetsbrev från mig? Isåfall klicka i rutan så lägger jag dig till sändlistan</p>
+ <br>   
+        <label for="newsletter"><br>Ja, jag vill ha nyhetsbrev</label><br>
+        <input type="checkbox" id="newsletter" name="newsletter" value="yes">
+</form>
+
+<strong>Vad tycker du om denna sida?</strong>
+<br>
+<br>    
+
+<select id="feedback" name="feedback">
+    <option value="excellent">Utmärkt</option>
+    <option value="good">Bra</option>
+    <option value="average">Medel</option>
+    <option value="poor">Dålig</option>
+</select>
+<br>
+<br>
+<label for="message">Dina övriga synpunkter:</label><br>
+<textarea id="message" name="message" minlength="10" maxlength="200"></textarea><br>
+  
+<button type="submit">Skicka</button>
+<br>
+<br>
+<footer>
+            @2026 Johanna Lilja. 
+            <a href="contact.html" target="_blank">Kontakta gärna mig</a>
+</footer>
