@@ -1,5 +1,5 @@
 ## ☀️ Den här sidan är en sida om mina hobbies 
-skall innehålla: glöm inte och pull. 
+skall innehålla: glöm inte och pull till vs code sen. 
 
 - En kort beskrivning av webbplatsen
 - Vilka tekniker som använts (HTML och eventuellt CSS)
