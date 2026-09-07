@@ -1,8 +1,6 @@
 ## ☀️ Den här sidan är min första webbsida 
 (https://joer1807.github.io/dt224g_johanna_lilja/index.html)
 
-skall innehålla:  
-
 - En kort beskrivning av webbplatsen: 
 **Det här är min första webbplats** 👌
 Den innehåller en kortare presentation av mig och några av mina hobbies🌞. Men framförallt så är de ett projekt i att lära sig grunderna i HTML. 
