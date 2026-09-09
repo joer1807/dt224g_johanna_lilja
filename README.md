@@ -1,6 +1,6 @@
-<<<<<<< HEAD
-## jag testar GitHub    
-### skriver i README filen från Vs Code 
+## Jag testar GitHub    
+### Skriver i README filen från Vs Code 
+
 
 ## ☀️ Den här sidan är min första webbsida 
 (https://joer1807.github.io/dt224g_johanna_lilja/index.html)
@@ -26,8 +26,3 @@ Vad händer rent praktiskt när man gör en merge? Då slår man ihop branches. 
 Vad är skillnaden mellan att pusha till GitHub och att publicera direkt på t.ex. Netlify?: GitHub är mera en lagringsplats medan netlify visar upp din webbplats, sk webbhotell. 
 
 Om du vill exkludera någon fil i projektet från versionshanteringen, hur gör du då?: Då skriver jag in en mapp .gitignor i mitt projekt och lägger in ex .nav som kan innehålla api nycklar
-
-=======
-## Jag testar GitHub    
-### Skriver i README filen från Vs Code 
->>>>>>> development
