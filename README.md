@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## jag testar GitHub    
 ### skriver i README filen från Vs Code 
 
@@ -26,3 +27,7 @@ Vad är skillnaden mellan att pusha till GitHub och att publicera direkt på t.e
 
 Om du vill exkludera någon fil i projektet från versionshanteringen, hur gör du då?: Då skriver jag in en mapp .gitignor i mitt projekt och lägger in ex .nav som kan innehålla api nycklar
 
+=======
+## Jag testar GitHub    
+### Skriver i README filen från Vs Code 
+>>>>>>> development
