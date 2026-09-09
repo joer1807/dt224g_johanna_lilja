@@ -1,2 +1,2 @@
-## jag testar GitHub    
-### skriver i README filen från Vs Code 
+## Jag testar GitHub    
+### Skriver i README filen från Vs Code 
