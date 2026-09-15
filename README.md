@@ -17,7 +17,7 @@ Den innehåller en kortare presentation av mig och några av mina hobbies🌞. M
 På netlify: 
 -(https://app.netlify.com/projects/unrivaled-dasik-4030f1/deploys/6a9f0132d4b835faec441703)
 
-##Svara kortfattat på följande frågor om git:
+Svara kortfattat på följande frågor om git:
 
 Vad är skillnaden mellan git add och git commit? :Git Add är när man flyttar sina filer till ett så kallat stageing area, de finns inte permanent i historiken än. Git - Commit nu har din fil fått ett unika ID och vi har lagt till ett meddelande. 
 
